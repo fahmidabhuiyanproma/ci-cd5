@@ -1,5 +1,5 @@
 def calculate_salary(basic, bonus):
-    return basic + bonus
+    return basic + bonus +1
 
 
 def calculate_tax(salary):
